@@ -1,0 +1,35 @@
+_repo: -Persons-Unknown-_37545
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Raleigh, Henry
+    birthdate: 1880
+    deathdate: 1945
+    gutenberg_agent_id: '34545'
+    url: http://www.gutenberg.org/2009/agents/34545
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tracy, Virginia
+    deathdate: 1946
+    gutenberg_agent_id: '38910'
+    url: http://www.gutenberg.org/2009/agents/38910
+description: ''
+gutenberg_issued: '2011-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37545'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors -- Fiction'
+- !lcsh 'Actresses -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Detective and mystery stories'
+title: '"Persons Unknown"'
+url: http://www.gutenberg.org/ebooks/37545
